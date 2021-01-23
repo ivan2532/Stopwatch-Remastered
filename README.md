@@ -1,5 +1,5 @@
 # Stopwatch-Remastered
-Basic stopwatch program that keeps the saves the last measurement, compatible with Windows, Mac and Linux.
+Basic stopwatch program that saves the last measurement, compatible with Windows, Mac and Linux.
 
 Downloads:
 [Windows build](https://drive.google.com/uc?export=download&id=1zRMpPEgmf8pFAGbfb0_-DaNditGqFyi7) | 
