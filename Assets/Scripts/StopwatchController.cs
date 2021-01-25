@@ -32,7 +32,10 @@ public class StopwatchController : MonoBehaviour
         if(currentStatus == Status.Running)
         {
             timer += Time.deltaTime;
-            currentMeasurementText.text = FormatTime(timer);
+
+            string formattedTime = FormatTime(timer);
+            currentMeasurementText.text = formattedTime;
+            PlayerPrefs.SetString(LAST_MEASUREMENT_KEY, formattedTime);
         }
     }
 
