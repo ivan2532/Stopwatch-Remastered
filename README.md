@@ -2,6 +2,6 @@
 Basic stopwatch program that saves the last measurement, compatible with Windows, Mac and Linux.
 
 Downloads:
-[Windows build](https://drive.google.com/uc?export=download&id=1zRMpPEgmf8pFAGbfb0_-DaNditGqFyi7) | 
-[Mac build](https://drive.google.com/uc?export=download&id=1q4JwVn5NidRoJuvSgonnjCbNZYRRtEzd) | 
-[Linux build](https://drive.google.com/uc?export=download&id=1IBoFQVqoP3WJ4DdBBhfswqA-9tg7CgK7)
+[Windows build](https://drive.google.com/uc?export=download&id=1-uE4KTb3xygrkDO6Jqiu1KIP1GUUkSSz) | 
+[Mac build](https://drive.google.com/uc?export=download&id=1SGodFHyivb3Iw0G6IjeB2lhn5u7lrS7y) | 
+[Linux build](https://drive.google.com/uc?export=download&id=1-abot9NV1egMFemA8F-Pdmoj_lkpAwaH)
